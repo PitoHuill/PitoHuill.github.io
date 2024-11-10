@@ -1,2 +1,1 @@
-# ronghao
 # PitoHuill.github.io
